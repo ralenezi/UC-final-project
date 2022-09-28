@@ -3,31 +3,16 @@
 <div dir="rtl">
 
 ### اسم الطالب
-
+رهف عبدالله
 
 ### اسم المشروع
-
+...
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+...
 
 # الأعمال المستقبلية
-
-
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
+...
 
 
